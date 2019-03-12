@@ -1,0 +1,11 @@
+    git remote add origin https://github.com/manishakachkure/manu.git
+    git clone https://github.com/manishakachkure/manu.git
+    cd manu/
+    ls
+    vim fibo.py
+    vim fibo.java
+    vi fibo.java
+    git checkout -b newjavaprogram
+    git add fibo.java 
+    git commit -m "this an java program"
+    git push origin newjavaprogram 
